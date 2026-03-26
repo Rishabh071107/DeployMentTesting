@@ -98,7 +98,7 @@ const CareerSelect = () => {
                                     <Box sx={{
                                         p: 2.5,
                                         borderRadius: '24px',
-                                        bgcolor: 'primary.50', // Assuming theme has this or similar, else primary.light with opacity
+                                      
                                         bgcolor: 'rgba(33, 150, 243, 0.1)',
                                         color: 'primary.main',
                                         mb: 3,
